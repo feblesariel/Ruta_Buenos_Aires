@@ -9,7 +9,7 @@ $header .= "X-Mailer: PHP/" . phpversion() . " \r\n";
 $header .= "Mime-Version: 1.0 \r\n";
 $header .= "Content-Type: text/plain";
 
-$to = "info@rutabuenosaires.com";
+$to = "territory2509@gmail.com";
 $subjet = "Enviado desde rutabuenosaires.com";
 $body = "Nombre: ".$name."\nE-mail: ".$email."\nWhatsApp: ".$phone."\nComentario: ".$message;
 
